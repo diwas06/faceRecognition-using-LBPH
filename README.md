@@ -9,3 +9,5 @@ face recognition using LBPH algo, (image processing)
 4) run the faceRecog_train.py file, it will run the algorithm and store the trained file.
 5) at last run the faceRecog_recog.py file, it will detect the face and give the label with % of confidence in matching and name  associated with the face.
 6) press q to end the script
+
+## In the videoCapture(n) change the value of n to 0 or 1 as per the device you are using.
